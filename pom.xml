@@ -26,6 +26,7 @@
 
     <modules>
         <module>jiuv-domain</module>
+        <module>jiuv-app</module>
     </modules>
 
     <dependencyManagement>

@@ -8,15 +8,14 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>jiuv-infrastructure</artifactId>
-    <name>jiuv-infrastructure</name>
-    <description>Demo project for Spring Boot</description>
+    <artifactId>jiuv-adapter</artifactId>
+    <name>jiuv-adapter</name>
+    <description>展现层：例如Restful接口</description>
 
     <dependencies>
-
         <dependency>
             <groupId>me.jianghs.jiuv</groupId>
-            <artifactId>jiuv-domain</artifactId>
+            <artifactId>jiuv-client</artifactId>
         </dependency>
 
         <dependency>

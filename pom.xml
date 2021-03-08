@@ -26,7 +26,7 @@
     <modules>
         <module>jiuv-app</module>
         <module>jiuv-client</module>
-        <module>jiuv-controller</module>
+        <module>jiuv-adapter</module>
         <module>jiuv-domain</module>
         <module>jiuv-infrastructure</module>
         <module>start</module>
@@ -49,7 +49,7 @@
 
             <dependency>
                 <groupId>me.jianghs.jiuv</groupId>
-                <artifactId>jiuv-controller</artifactId>
+                <artifactId>jiuv-adapter</artifactId>
                 <version>${project.version}</version>
             </dependency>
 

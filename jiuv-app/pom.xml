@@ -16,7 +16,17 @@
 
         <dependency>
             <groupId>me.jianghs.jiuv</groupId>
+            <artifactId>jiuv-client</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>me.jianghs.jiuv</groupId>
             <artifactId>jiuv-domain</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>me.jianghs.jiuv</groupId>
+            <artifactId>jiuv-infrastructure</artifactId>
         </dependency>
 
         <dependency>
